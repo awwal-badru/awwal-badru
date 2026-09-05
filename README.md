@@ -8,10 +8,10 @@
 ## 🎯 My Research Mission
 
 **The Problem:**
-Computing students learn from an overwhelming abundance of resources—textbooks, tutorials, videos, documentation, forums, and AI-generated content. But more resources don't equal better learning[...]
+Computing students learn from an overwhelming abundance of resources—textbooks, tutorials, videos, documentation, forums, and AI-generated content. But more resources don't equal better learning.
 
 **My Solution:**
-I'm building **intelligent, transparent adaptive systems** that help computing students find and use high-quality learning resources while keeping humans in control. Using machine learning, adapti[...]
+I'm building **intelligent, transparent adaptive systems** that help computing students find and use high-quality learning resources while keeping humans in control. Using machine learning, adaptive algorithms, and rigorous empirical methods, I create systems that augment—not replace—human judgment.
 
 ---
 
@@ -34,7 +34,7 @@ I'm building **intelligent, transparent adaptive systems** that help computing s
 ## 🚀 Featured Work
 
 ### **Adaptive Learning Platform** – Personalized Resource Recommendations
-Full-stack system delivering personalized learning resources in real computing courses. The platform learns from student interactions using contextual machine learning to recommend the most effect[...]
+Full-stack system delivering personalized learning resources in real computing courses. The platform learns from student interactions using contextual machine learning to recommend the most effective materials for each learner's context.
 
 **What it does:**
 - Recommends supplementary materials personalized to each student's learning context
@@ -94,7 +94,7 @@ Led data operations supporting **1,500+ schools** and **500,000+ students** at s
 ---
 
 ### **Resource Discovery Research**
-Empirical studies investigating *which resources students use*, *why they choose them*, and *what makes resources effective* for computing learners. Currently under review at SIGCSE and *ACM Tran[...]
+Empirical studies investigating *which resources students use*, *why they choose them*, and *what makes resources effective* for computing learners. Currently under review at SIGCSE and *ACM Transactions on Computing Education*.
 
 **Research Questions:**
 - How do students navigate supplementary learning materials?
@@ -255,7 +255,7 @@ I'm building a **research program** that:
 4. **Supports collaborative research** – Creating opportunities for graduate students, PhD researchers, and undergraduates to contribute meaningfully to scholarly work
 5. **Builds secure, scalable systems** – Production-grade platforms used by real students and institutions
 
-The ultimate goal: **Intelligent systems that help computing students make better use of abundant learning resources while keeping those systems transparent, evidence-based, secure, and under mea[...]
+The ultimate goal: **Intelligent systems that help computing students make better use of abundant learning resources while keeping those systems transparent, evidence-based, secure, and under meaningful human control.**
 
 ---
 
