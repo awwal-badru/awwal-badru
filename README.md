@@ -8,10 +8,10 @@
 ## 🎯 My Research Mission
 
 **The Problem:**
-Computing students learn from an overwhelming abundance of resources—textbooks, tutorials, videos, documentation, forums, and AI-generated content. But more resources don't equal better learning. Students struggle to find what actually works for *them*, and instructors rarely have evidence about which resources are effective for different learners.
+Computing students learn from an overwhelming abundance of resources—textbooks, tutorials, videos, documentation, forums, and AI-generated content. But more resources don't equal better learning[...]
 
 **My Solution:**
-I'm building **intelligent, transparent adaptive systems** that help computing students find and use high-quality learning resources while keeping humans in control. Using machine learning, adaptive experimentation, and learning analytics, I investigate how computational systems can personalize learning support without replacing instructor judgment.
+I'm building **intelligent, transparent adaptive systems** that help computing students find and use high-quality learning resources while keeping humans in control. Using machine learning, adapti[...]
 
 ---
 
@@ -34,7 +34,7 @@ I'm building **intelligent, transparent adaptive systems** that help computing s
 ## 🚀 Featured Work
 
 ### **Adaptive Learning Platform** – Personalized Resource Recommendations
-Full-stack system delivering personalized learning resources in real computing courses. The platform learns from student interactions using contextual machine learning to recommend the most effective supplementary materials from instructor-vetted collections.
+Full-stack system delivering personalized learning resources in real computing courses. The platform learns from student interactions using contextual machine learning to recommend the most effect[...]
 
 **What it does:**
 - Recommends supplementary materials personalized to each student's learning context
@@ -45,38 +45,35 @@ Full-stack system delivering personalized learning resources in real computing c
 
 **Research Impact:** Investigating how contextual bandit methods scale in real educational settings; empirical studies on resource effectiveness published in peer-reviewed venues
 
-**Tech:** Python · Django · React · PostgreSQL · Machine Learning (Contextual Thompson Sampling) · Learning Analytics · REST APIs
+**Tech:** JavaScript · React · Node.js · Express · PostgreSQL · Python (Contextual Thompson Sampling) · Learning Analytics · REST APIs
 
 ---
 
-### **Security Geolocation Alert System** – Mobile & Real-Time Safety
-Cross-platform mobile application with real-time geolocation monitoring and security alerts. Detects unauthorized access and alerts users when login activities occur from unexpected locations.
+### **Eagle – Geolocation Alert & Emergency Response System** – Real-Time Safety
+Cross-platform mobile application connecting citizens in distress with nearby emergency response units. Features real-time geolocation tracking, SOS alerting, and responder navigation.
 
 **What it does:**
-- Real-time geolocation tracking on mobile devices
-- Detects suspicious login attempts from unusual locations
-- Sends push notifications for security events
-- Secure authentication and encryption
-- Responsive mobile experience across iOS and Android
+- One-touch SOS alerting with agency categorization (Police, Medical, Fire, Accident)
+- Real-time location streaming and routing navigation for citizens and responders
+- Interactive web dispatcher command center with active ticket tracking
+- Spatial responder querying using Firestore-compatible geohashing
+- Serverless backend with security rules and offline mock mode
 
-**Tech:** Flutter · Firebase · Geolocation APIs · Push Notifications · Mobile Security
+**Tech:** Flutter · Dart · Firebase (Auth, Firestore, Cloud Storage, Cloud Functions) · Google Maps Platform · Riverpod (State Management) · Geohashing
 
 ---
 
-### **Financial Management Information System (FMIS)**
-Comprehensive enterprise system for managing financial operations and budgeting at institutional scale. Enables administrators and finance teams to track expenditures, allocate budgets, and generate financial reports.
+### **Financial Management System (FMIS)** – Cooperative Finance
+Web-based financial management system for cooperative societies enabling member account management, transactions, savings, and loans with real-time reporting.
 
 **What it does:**
-- Centralized financial data management
+- Centralized member account management
+- Transaction logging and financial summaries
 - Budget tracking and allocation
 - Real-time financial reporting and analytics
-- User authentication and role-based access control
-- Audit trails for compliance and accountability
-- Integration with multiple data sources
+- Role-based access control and audit trails
 
-**Impact:** Streamlines financial operations for large institutions; supports data-driven budgeting decisions
-
-**Tech:** Backend (Django/Python) · Frontend (React) · PostgreSQL · Financial Data Analysis
+**Tech:** MongoDB · Express.js · React · Node.js (MERN Stack) · Netlify Hosting
 
 ---
 
@@ -97,7 +94,7 @@ Led data operations supporting **1,500+ schools** and **500,000+ students** at s
 ---
 
 ### **Resource Discovery Research**
-Empirical studies investigating *which resources students use*, *why they choose them*, and *what makes resources effective* for computing learners. Currently under review at SIGCSE and *ACM Transactions on Computing Education*.
+Empirical studies investigating *which resources students use*, *why they choose them*, and *what makes resources effective* for computing learners. Currently under review at SIGCSE and *ACM Tran[...]
 
 **Research Questions:**
 - How do students navigate supplementary learning materials?
@@ -114,26 +111,29 @@ Empirical studies investigating *which resources students use*, *why they choose
 
 ### Backend & Machine Learning
 ```
-Python (Django, Flask) | Machine Learning (Scikit-learn, TensorFlow)
+Python (Machine Learning, Algorithms) | Node.js · Express.js
 Contextual Bandits | Thompson Sampling | Learning Analytics
-PostgreSQL | MongoDB | NumPy/SciPy/Pandas
+PostgreSQL | MongoDB | NumPy/SciPy/Pandas | Scikit-learn
 ```
 
 ### Frontend & User Experience
 ```
 React | JavaScript | TypeScript | Bootstrap | HTML/CSS
-Flutter (mobile) | User Research & Usability Testing
+Flutter & Dart (Cross-platform Mobile) | Riverpod (State Management)
+User Research & Usability Testing
 ```
 
-### Infrastructure & Experimentation
+### Cloud & Infrastructure
 ```
-Firebase | Celery (async task scheduling) | Docker | AWS (S3, SQS)
+Firebase (Auth, Firestore, Cloud Storage, Cloud Functions)
+Google Maps Platform (Maps SDK, Geocoding, Directions, Geohashing)
+Netlify (Hosting) | Docker | AWS (S3, SQS) | Celery (Async Tasks)
 Geolocation APIs | Push Notifications | A/B Testing
 ```
 
 ### Research & Academic
 ```
-Jupyter Notebooks | R (statistical analysis)
+Jupyter Notebooks | R (Statistical Analysis)
 Qualitative Research Methods | User Studies
 BibTeX | LaTeX | Academic Writing
 ```
@@ -222,7 +222,7 @@ I'm interested in conversations about:
 - Machine learning model evaluation
 - Experimental design and A/B testing
 - Educational data systems at scale
-- Mobile app development (Flutter, Firebase)
+- Mobile app development (Flutter, Firebase, Geolocation APIs)
 - Financial and management information systems
 - Open-source educational technology
 
@@ -255,7 +255,7 @@ I'm building a **research program** that:
 4. **Supports collaborative research** – Creating opportunities for graduate students, PhD researchers, and undergraduates to contribute meaningfully to scholarly work
 5. **Builds secure, scalable systems** – Production-grade platforms used by real students and institutions
 
-The ultimate goal: **Intelligent systems that help computing students make better use of abundant learning resources while keeping those systems transparent, evidence-based, secure, and under meaningful human control.**
+The ultimate goal: **Intelligent systems that help computing students make better use of abundant learning resources while keeping those systems transparent, evidence-based, secure, and under mea[...]
 
 ---
 
