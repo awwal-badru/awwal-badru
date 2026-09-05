@@ -187,7 +187,7 @@ This means:
 - 📚 **4 degrees** spanning computer science, education, and data systems
 - 👥 **500K+ students** impacted through education systems
 - 🏢 **1,500+ schools** managed through FMIS and EMIS
-- 🔬 **Published research** in peer-reviewed venues (ACM, SIGCSE, conference proceedings)
+- 🔬 **Published research** in peer-reviewed venues (ACM Transactions on Computing Education, SIGCSE, conference proceedings)
 - 👨‍🎓 **100+ students mentored** in research and development projects
 - 💾 **Multiple research systems** deployed in real educational settings
 
