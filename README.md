@@ -1,6 +1,6 @@
 # 👋 Awwal Badru
 
-**Ph.D. Candidate in Computer Science** | Adaptive Learning Systems & Educational Technology Researcher  
+**Ph.D. Candidate @ the University of Alabama, Computer Science, United States** | Adaptive Learning Systems & Educational Technology Researcher  
 🧠 Machine Learning × Education | 💻 Full-Stack Developer | 🎓 Human-Centered Computing
 
 ---
